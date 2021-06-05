@@ -18,6 +18,11 @@ usages. Usage will result in a directory being created to drop the output into. 
 interest and a few json files that detail the duplicate URLs encountered, the URLs that the scraper failed to download
 an image from, and those URLs it successfully downloaded an image from.
 
+For those that just want to use this as a tool, because it wasn't clear to me immediately how to just install this
+and do that, it's as simple as, for instance, the following
+
+    npx imgscrape-cli -t narwhal -e google
+
 There is logic in there to bail if the engine is not providing additional images on scrolling down the page, and a MD5
 hash based check to bail on the downloading of new images if the engine is providing too many consecutive duplicate
 images. There may be better ways to implement this logic, but it worked well enough for what I was trying to do.
