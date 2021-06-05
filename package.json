@@ -1,6 +1,6 @@
 {
   "name": "@bpw1621/imgscrape",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Puppeteer-based image search engine scraper.",
   "repository": {
     "type": "git",
