@@ -1,10 +1,73 @@
 {
   "name": "@bpw1621/imgscrape",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Puppeteer-based image search engine scraper.",
   "repository": {
     "type": "git",
     "url": "https://github.com/bpw1621/imgscrape.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "pupeteer",
+
+    "chrome",
+    "headless",
+    "chrome-headless",
+
+    "crawler",
+    "web-crawler",
+
+    "automation",
+    "download",
+    "script",
+
+    "scraper",
+    "scrape",
+    "scrapping",
+    "images-scraper",
+
+    "web",
+    "url",
+    "page",
+    "site",
+    "html",
+    "css",
+    "js",
+
+    "image",
+    "images",
+    "photo",
+    "photos",
+
+    "google",
+    "duckduckgo",
+    "yandex",
+    "infospace",
+    "bing",
+    "flickr",
+    "instagram",
+
+    "data",
+    "science",
+    "mining",
+    "machine",
+    "learning",
+
+    "data science",
+    "data-science",
+    "datascience",
+    "data mining",
+    "data-mining",
+    "datamining",
+    "machine-learning",
+    "machine learning",
+    "machinelearning"
+  ],
+  "author": "Dr. Bryan Patrick Wood <bpw1621+imgscrape@gmail.com> (https://bpw1621.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/bpw1621/imgscrape",
+  "bugs": {
+    "url": "https://github.com/bpw1621/imgscrape/issues"
   },
   "main": "./cli/imgscrape-cli.js",
   "bin": {
